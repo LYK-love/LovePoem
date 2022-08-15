@@ -12,7 +12,7 @@ Since the APP is goal-oriented, our focous is the content and design. For conten
 
 First of all, to control the quality of our content, we will only review poems mannually, so the pross may be  slow and the judgment can be quite subjective. 
 
-Chiness poem is a very unique concept --- it not only includes what westerns called "poems", but also include **词** and **赋**. So in terms of format, we wil accept all of them(诗,词,赋 ). Note that we **dont accept** modern poems, other-language poems, 曲, 小说 or 古文. Appreciations of Poetry will be included too since we will carefully pick appreciation's versions.
+Chiness poem is a very unique concept --- it not only includes what westerns call "poems", but also includes **词** and **赋**. So in terms of format, we wil accept all of them(诗,词,赋 ). Note that we **dont accept** modern poems, other-language poems, 曲, 小说 or 古文. Appreciations of Poetry will be included too since we will carefully pick appreciation's versions.
 
 # How we develop it
 
