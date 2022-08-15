@@ -20,7 +20,7 @@ Chiness poem is a very unique concept --- it not only includes what westerns cal
 
 LovePoem is a side project and we believe that the most important thing to develop a side project is to **focus on the problem itself**. So our prioritization is:
 
-1. Ony write frontend
+1. Only write frontend
 2. if there must be a backend, try Serveless as much as possible
 3. maintain a server
 
@@ -30,7 +30,7 @@ Here're the technical selection:
 
 * Frontend( hybrid development ): React/ReactNative + Ts + Tailwind + Android
   * may be we can add Redux
-* Backend: we try to avoid backend, but if we have to, we will using SpringBoot
+* Backend: we try to avoid backend, but if we have to, we will use SpringBoot
 * CICD: Jenkins. We're also considering [Vercel](https://vercel.com/) too.
 * Database: Mysql or [Dynamodb](https://aws.amazon.com/cn/dynamodb)
 * CloudNative: We hope we can use K8S.
