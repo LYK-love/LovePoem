@@ -44,12 +44,10 @@ Here're the technical selection:
 
 * 2022/8/15: Defining the vision.
 
-
-
-## Get started
+# Get started
 
 TODO
 
-## Contribute
+# Contribute
 
 Well, altough we only take in ancient literature, any contributon is welcomed if you consider your work is good enough. Note that posted works must also be comliant with our limitations above.
